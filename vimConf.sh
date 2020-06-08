@@ -1,4 +1,4 @@
-!#/usr/bin/env bash
+#!/usr/bin/env bash
 
 echo -e "set number\nsyntax on\nset tabstop=2 shiftwidth=2 expandtab\nfiletype plugin indent on\n" >> ~/.vimrc
 
